@@ -4,11 +4,11 @@
         xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.huawei</groupId>
-    <artifactId>servicecomb</artifactId>
+    <artifactId>demomvc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>servicecomb</name>
+    <name>demomvc</name>
     <url>http://maven.apache.org</url>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -20,7 +20,7 @@
         <cse.version>2.3.56</cse.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <demo.main>com.huawei.servicecomb.ServicecombspringmvcApplication</demo.main>
+        <demo.main>com.huawei.demomvc.DemomvcApplication</demo.main>
     </properties>
 
 
